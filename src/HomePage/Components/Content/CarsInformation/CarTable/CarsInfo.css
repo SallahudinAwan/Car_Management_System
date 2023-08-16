@@ -1,0 +1,25 @@
+.TableClass{
+    border-radius:20px;
+    color: white;
+    font-size: small;
+}
+
+.TableClass th{
+    color:white;
+    margin: 20px;
+    text-align: center;
+}
+
+.TableClass tr{
+    background-color: #112f59;
+    padding: 100px;
+}
+
+.TableClass td{
+    color: white;
+    text-align: center;
+} 
+
+.TableClass tr:hover{
+    background-color: #1b3e6e;
+} 

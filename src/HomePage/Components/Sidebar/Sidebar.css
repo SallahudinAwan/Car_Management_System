@@ -1,0 +1,40 @@
+.sidebar {
+    height: 100%;
+    width: 15%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top:10px;
+    background-color: #112f59;
+}
+.SideImg{
+    background-color: silver;
+    padding: 10px;
+    width: 95%;
+    border-top-right-radius: 20px;
+
+}
+.SideBtn {
+    margin-top: 20px;
+    text-decoration: none;
+    width: 100%;
+    border-width: 0px;
+    text-align: left;
+    color: white;
+    padding: 10px;
+    border-radius: 0px;
+    font-size: 14px;
+    background-color: #112f59;
+    display: block;
+}
+
+.SideBtn:hover {
+    background-color: #1b3e6e;
+    color:white
+}
+
+
+.SideBtn:focus {
+    background-color: #1b3e6e;
+}
+

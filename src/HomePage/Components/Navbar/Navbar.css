@@ -1,0 +1,41 @@
+
+.header {
+    position: fixed;
+    width: 100%;
+    padding-right: 25px;
+    background-color:#21293B;
+    justify-content: space-between;
+    display: flex;
+  }
+  .navbarDisplay{
+    margin-top: 8px;
+    color: white;
+    justify-content: center;
+  }
+  .bell{
+    font-size: 10px;
+    color: white;
+  }
+  .bell:hover{
+    color: aquamarine;
+
+  }
+  .rightcomponents{
+    display: flex;
+  }
+
+  .avatar {
+    width: 20px;
+  }
+  
+  .avatarbtn{
+    border-width: 0px;
+    background-color: white;
+  }
+  
+  .avatarbtn:hover {
+    background-color: aqua;
+    border-radius: 20px;
+  }
+  
+  

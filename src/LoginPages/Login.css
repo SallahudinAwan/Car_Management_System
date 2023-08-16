@@ -1,0 +1,13 @@
+
+.Bodylogin{
+    background: url("https://149363333.v2.pressablecdn.com/wp-content/uploads/2021/01/carLot03-1-1110x625.jpg");
+   background-repeat:no-repeat;
+   background-size: 100%;
+   justify-content: center;
+   height: 100vh;
+}
+
+.loginBtn{
+    background-color:"#112f59";
+    width:"100%"
+}
