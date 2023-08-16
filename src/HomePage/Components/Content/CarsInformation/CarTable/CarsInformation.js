@@ -47,7 +47,6 @@ const CarsInformation = () => {
           BrandID:id
         })
         .then((res) => {
-          console.log(res.data)
           setCarAllVarient(res.data);
         })
         .catch((err) => {
